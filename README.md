@@ -18,4 +18,4 @@ Usage
 
 `{% mapbox lat long zoomLevel %}`
 
-For more information, just check out the [demo page](http://tieubao.22journeys.com).
+For more information, just check out the [demo page](http://tieubao.22journeys.com/writing/2013/12/03/a-mapbox-plugin-for-octopress/)
