@@ -16,6 +16,6 @@ Install
 Usage
 ================
 
-{% mapbox lat long zoomLevel %}
+`{% mapbox lat long zoomLevel %}`
 
 For more information, just check out the [demo page](http://tieubao.22journeys.com).
