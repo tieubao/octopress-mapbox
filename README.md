@@ -19,3 +19,6 @@ Usage
 `{% mapbox lat long zoomLevel %}`
 
 For more information, just check out the [demo page](http://tieubao.22journeys.com/writing/2013/12/03/a-mapbox-plugin-for-octopress/)
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/tieubao/octopress-mapbox/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
